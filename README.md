@@ -4,7 +4,6 @@ Video:https://www.youtube.com/watch?v=e1kynW8fpsE
 # _______________________________________________
 
 # Super Capsule
-*Super Kapsül* adlı oyununuzda dikkat, hafıza ve hesap yeteneklerini ölçmek için belirttiğiniz yöntemleri nasıl kullanabileceğinizi ve haftalık planınızı güncelleyerek optimize edeceğim.
 
 # 1) Dikkat Ölçümü
 
