@@ -49,7 +49,9 @@ ikinci levele geldik
 ![Baslangıc](https://i.hizliresim.com/3tkxd17.jpg)
 
 # DÜŞMAN
-kırmızı düşmanımız ona dokunduğumuzda direk oluyoruz ancak tam uzerine zipladıgımızda dusmanımıini yok ediyoruz
+
+kırmızı düşmanımız ona dokunduğumuzda direk oluyoruz ancak tam uzerine zipladıgımızda dusmanımıini yok ediyoruz.
+
 ![Baslangıc](https://i.hizliresim.com/q8kndyl.jpg)
 
 ![Baslangıc](https://i.hizliresim.com/fk6de0u.jpg)
