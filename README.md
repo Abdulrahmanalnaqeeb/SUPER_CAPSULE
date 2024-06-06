@@ -50,7 +50,7 @@ ikinci levele geldik
 
 # DÜŞMAN
 
-kırmızı düşmanımız ona dokunduğumuzda direk oluyoruz ancak tam uzerine zipladıgımızda dusmanımıini yok ediyoruz.
+kırmızı düşmanımız ona dokunduğumuzda, direk oluyoruz ancak tam uzerine zipladıgımızda dusmanımıini yok ediyoruz.
 
 ![Baslangıc](https://i.hizliresim.com/q8kndyl.jpg)
 
